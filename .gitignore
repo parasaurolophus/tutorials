@@ -1,0 +1,16 @@
+# Backups
+*~
+*.bak
+*.hide
+
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# local-only directory for experimentation, manual testing etc.
+scratch/
+
+# VS Code project metadata
+.vscode/
